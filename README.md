@@ -4,7 +4,7 @@
 ## Hosted Version of the Project:
 [m5react-day-9-homework-quiz-webapp](https://m5react-day-9-homework-quiz-webapp.vercel.app/)
 
-## Objective
+## Objectives
 + Built a Quiz App that retrieves quiz questions from the [OpenDB API](https://opentdb.com/) using the fetch function.
 + Implemented a countdown timer of 5 seconds for each question.
 + Provided four answer options for each question.
